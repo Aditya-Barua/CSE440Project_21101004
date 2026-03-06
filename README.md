@@ -7,7 +7,7 @@ The workflow of the project includes:
 * **Text preprocessing**, including token encoding and sequence padding
 * Implementation of four sequence models:
 
-  * Recurrent Neural Network (**RNN**)
+  * **Recurrent Neural Network** (**RNN**)
   * **LSTM**
   * **GRU**
   * **Bidirectional LSTM (BiLSTM)**
